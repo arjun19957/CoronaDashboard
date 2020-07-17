@@ -7,8 +7,11 @@ The data is updated on a daily basis. The stats displayed, therefore, reflects t
 # Dependencies:
 
 pandas: version 1.01
+
 matplotlib: version 3.1.3
+
 urllib3: version 1.25.8
+
 scikitlearn: versíon 0.22.1 
 
 
