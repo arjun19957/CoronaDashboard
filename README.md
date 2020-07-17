@@ -14,6 +14,8 @@ urllib3: version 1.25.8
 
 scikitlearn: versíon 0.22.1 
 
+seaborn
+
 
 
  
